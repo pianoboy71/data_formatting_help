@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='data_formatting_help',
-    version='1.0.1',
+    version='1.0.2',
     packages=find_packages(),
     install_requires=[
         'bump2version',  # Version bumping

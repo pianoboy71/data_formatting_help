@@ -11,7 +11,7 @@ Version:
     0.1.0
 """
 
-__version__ = '1.0.1'
+__version__ = '1.0.2'
 
 from .formatter import (
     format_json,
